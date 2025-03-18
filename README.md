@@ -1,6 +1,7 @@
 # Master thesis: Habereder Isabella
 
 This is the practical part of the master thesis Coreset Markov chain Monte Carlo. 
+The code implements the proposed algorithm of [Chen and Campbell](https://proceedings.mlr.press/v238/chen24f.html).
 
 Python version: Python 3.12
 
